@@ -71,6 +71,15 @@ img::-moz-selection {
 body {
   -webkit-tap-highlight-color: #0085A1; }
 
+  body {
+    display: block;
+    margin: 0px;
+    margin-top: 0px;
+    margin-right: 0px;
+    margin-bottom: 0px;
+    margin-left: 0px;
+}
+
 #mainNav {
   position: absolute;
   border-bottom: 1px solid #e9ecef;
